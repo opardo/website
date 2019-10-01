@@ -18,18 +18,36 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Proficient"  
+  description = "Excellent"  
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Proficient"
+  description = "Excellent"
   
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
+  description = "Excellent"  
+
+[[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "Git"
+  description = "Proficient" 
+
+[[feature]]
+  icon = "overleaf"
+  icon_pack = "ai"
+  name = "LaTeX"
   description = "Proficient"  
+
+[[feature]]
+  icon = "project-diagram"
+  icon_pack = "fas"
+  name = "PySpark"
+  description = "Familiar"  
 
 +++
