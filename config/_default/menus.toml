@@ -24,11 +24,6 @@
   weight = 20
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 90
-
-[[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
