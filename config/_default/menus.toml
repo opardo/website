@@ -11,13 +11,12 @@
 [[main]]
   name = "Skills"
   url = "#skills"
-  weight = 40
-
+  weight = 50
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 50
+  name = "Courses"
+  url = "#courses"
+  weight = 40
 
 [[main]]
   name = "Projects"
@@ -28,11 +27,6 @@
   name = "Publications"
   url = "#featured"
   weight = 90
-
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
 
 [[main]]
   name = "Contact"
