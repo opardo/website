@@ -30,15 +30,16 @@ date_format = "Jan 2006"
   * Abstracting features in common of people who use each of the paid and organic channels to land on our platform.
   * Discovering sequences of different channel landings with the best and worst booking rates.
   
-  And the results of these actions were...
+  And the impact...
 
-  * Empowered our marketing team to design channel strategies according to such characteristics and sequences, and provided them with time-series dashboards to verify if the peculiarities of each channel remain in time.
-  * Proposed a new customer-centric metric framework to measure the popularity, effectiveness and influence of each channel. It was the first framework in the history of our team to consider that a certain user may like several channels.
+  * Empowered our marketing team to design holistic channel strategies according to such characteristics and sequences, and provided them with time-series dashboards to verify if the peculiarities of each channel remain throughout time.
+  * Designed a novel customer-centric metric framework that is the first-ever to account for the possibility of users liking multiple channels.
+
 """
 
 [[experience]]
   title = "Statistical Modeler"
-  company = "BBVA MX"
+  company = "BBVA MX [Mexico's largest bank]"
   company_url = ""
   location = "Mexico City, MX"
   date_start = "2017-07-01"
@@ -46,20 +47,20 @@ date_format = "Jan 2006"
   description = """
   I explored our users' behavior by...
 
-  * Examining their fixed expenses and the amount of additional money they tend to spend, in a monthly basis.
+  * Examining their fixed expenses and the amount of additional money they tend to spend, on a monthly basis.
   * Comparing their current debt versus their trends in income and expenses.
   * Analyzing the interest rates that people have accepted or rejected when personal loans have been offered to them.
   
-  And the results of these actions were...
+  And the impact...
 
-  * Increased the number of investments after automating the sending of offers to people who have enough money to cover their projected expenses.
+  * Increased the number of investments after automating targeted offers to people who have enough money to cover their projected expenses.
   * Improved our customer's personal finances by suggesting personalized actions given their current situation, but also their future one, if they keep doing what they have been doing.
   * Optimized the bank's profit by estimating the maximum interest rate a given customer is willing to pay for a personal loan.
 """
 
 [[experience]]
   title = "Junior Data Scientist"
-  company = "Kantar LATAM"
+  company = "Kantar LATAM [International market research firm]"
   company_url = ""
   location = "Mexico City, MX"
   date_start = "2016-06-01"
@@ -67,11 +68,11 @@ date_format = "Jan 2006"
   description = """
   I explored people's behavior by...
 
-  * Comparing for different periods what was their love for our client's brands.
+  * Comparing their love for our clients' brands across different time period.
   * Estimating the effect of different advertising channels in their awareness of a brand. 
-  * Discovering patterns of consumption depending on age.
+  * Uncovering age-driven consumption patterns.
   
-  And the results of these actions were...
+  And the impact...
 
   * Empowered our clients to figure out the current state and momentum of their brand, as well as anomalies in their KPIs, by building Shiny apps.
   * Optimized our clients' media strategy, estimating saturation curves for their investment on each channel.
@@ -80,7 +81,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Web Developer"
-  company = "Datata (Tech startup)"
+  company = "Datata [Tech startup]"
   company_url = ""
   location = "Mexico City, MX"
   date_start = "2015-06-01"

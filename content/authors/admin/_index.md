@@ -68,4 +68,4 @@ email: "cop2108@columbia.edu"
 # - Visitors
 ---
 
-Having three years of experience in the industry, I am part of the MS in Data Science program at Columbia University. After a fantastic summer internship at Airbnb, I will graduate this December (2019) and look forward to the next step in my career!
+Having three years of experience in the industry and a background in Applied Mathematics, I am part of the MS in Data Science program at Columbia University. After a fantastic summer internship at Airbnb, I will graduate this December (2019) and look forward to the next step in my career!
