@@ -23,8 +23,8 @@ bio: After 3+ years of industry experience and a master's degree from Columbia U
 interests:
 - Human behavior
 - Advanced Statistics
-- Improving decision-making
 - Machine Learning
+- Improving decision-making
 
 education:
   courses:
