@@ -1,6 +1,6 @@
 ---
 title: Inside The Office
-summary: Exploratory Data Analysis and Visualization about The Office (NBC)
+summary: Exploratory data analysis and visualizations about The Office (NBC), using tidyverse
 tags:
 - Applications
 date: "2016-04-27T00:00:00Z"

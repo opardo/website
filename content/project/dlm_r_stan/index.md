@@ -1,6 +1,6 @@
 ---
 title: dlmRStan
-summary: R Package which fits a Bayesian linear model in a time series context
+summary: R Package that fits a Bayesian linear model in a time series context
 tags:
 - Tools
 date: "2016-04-27T00:00:00Z"

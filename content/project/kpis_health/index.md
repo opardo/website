@@ -1,6 +1,6 @@
 ---
 title: KPIsHealth
-summary: Shiny app useful to explore trends in time series, particularly designed for KPIs estimated from survey data
+summary: Shiny app useful to explore trends in time series, designed for KPIs estimated from survey data
 tags:
 - Tools
 date: "2016-04-27T00:00:00Z"

@@ -1,6 +1,6 @@
 ---
-title: Wes Anderson Recommendation System (WARS)
-summary: Recommendation system to find the users that are most likely to watch each of Wes Anderson's films
+title: Wes Anderson Recommendation System 
+summary: Recommendation system to find users likely to watch each of Wes Anderson's films, using Factorization Machines
 tags:
 - Applications
 date: "2016-04-27T00:00:00Z"
