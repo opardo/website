@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Behavioral Data Scientist
+role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -54,9 +54,9 @@ social:
   link: https://github.com/opardo
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: file-alt
+  icon_pack: fas
+  link: files/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "cop2108@columbia.edu"
