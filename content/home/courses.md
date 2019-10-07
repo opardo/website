@@ -107,32 +107,4 @@ date_format = "Jan 2006"
   date_start = "2016-01-01"
   date_end = "2016-05-01"
   description = ""
-
-[[item]]
-  organization = "Instituto Tecnologico Autónomo de México"
-  title = "Time Series Analysis (Prof. Victor Guerrero)"
-  url = ""
-  certificate_url = ""
-  date_start = "2015-09-01"
-  date_end = "2015-12-01"
-  description = ""
-
-[[item]]
-  organization = "Instituto Tecnologico Autónomo de México"
-  title = "Statistical Learning (Prof. Felipe Gonzalez)"
-  url = ""
-  certificate_url = ""
-  date_start = "2014-08-01"
-  date_end = "2014-12-01"
-  description = ""
-
-[[item]]
-  organization = "Instituto Tecnologico Autónomo de México"
-  title = "Mathematical Statistics (Prof. Luis Enrique Nieto)"
-  url = ""
-  certificate_url = ""
-  date_start = "2014-01-01"
-  date_end = "2014-05-01"
-  description = ""
-
 +++
