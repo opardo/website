@@ -32,7 +32,7 @@ education:
     institution: Columbia University
     year: 2019
   - course: BS in Applied Mathematics
-    institution: Insituto Tecnologico Autonomo de Mexico
+    institution: Insituto Tecnologico Autonomo de Mexico (ITAM)
     year: 2016
 
 # Social/Academic Networking

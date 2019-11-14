@@ -34,7 +34,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Statistical Modeler"
-  company = "BBVA MX [Mexico's largest bank]"
+  company = "BBVA MX (Mexico's largest bank)"
   company_url = ""
   location = "Mexico City, MX"
   date_start = "2017-07-01"
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Junior Data Scientist"
-  company = "Kantar LATAM [International market research firm]"
+  company = "Kantar (Market research firm)"
   company_url = ""
   location = "Mexico City, MX"
   date_start = "2016-06-01"
@@ -61,7 +61,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Web Developer"
-  company = "Datata [Tech startup]"
+  company = "Datata (Tech startup)"
   company_url = ""
   location = "Mexico City, MX"
   date_start = "2015-06-01"
