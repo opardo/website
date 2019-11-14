@@ -26,8 +26,8 @@ date_format = "Jan 2006"
   date_end = "2019-08-23"
   description = """
   * Personalized our marketing strategy by training machine learning models that characterize the users landing via paid and organic channels.
-  * Built time-series dashboards to verify if the peculiarities of each channel remain throughout time.
-  * Boosted the probability of booking by finding the best sequences of channels, influencing the design of holistic strategies.
+  * Built time-series dashboards to verify if such characteristics remain throughout time.
+  * Boosted the probability of booking by finding the sequences of channels with the best results, influencing the creation of holistic strategies.
   * Designed a novel customer-centric metric framework that is the first-ever to account for the possibility of users liking multiple channels.
 
 """
@@ -40,9 +40,8 @@ date_format = "Jan 2006"
   date_start = "2017-07-01"
   date_end = "2018-07-01"
   description = """
-  * Increased the number of investments after automating targeted offers. I achieved this, fitting PySpark models that estimate monthly expenses for
-  each of our users.
-  * Improved our clients’ present and future finances by suggesting personalized actions given their current balance and trend.
+  * Increased the number of investments after automating targeted offers, fitting PySpark models that estimate monthly expenses for each of our users.
+  * Improved our clients’ finances by suggesting personalized actions, given their current balance and trends.
   * Maximized the bank’s profit by estimating the maximum interest rate a given customer is willing to pay for a personal loan, using random forests.
 """
 
@@ -55,7 +54,7 @@ date_format = "Jan 2006"
   date_end = "2017-06-01"
   description = """
   * Empowered our clients to figure out the current state and momentum of their brand, as well as anomalies in their KPIs, by building Shiny apps.
-  * Optimized our clients’ media strategy, estimating the effect of different advertising channels in their metrics, using my self-developed R packages.
+  * Optimized our clients’ media strategy by estimating the effect of different advertising channels on their metrics, using self-developed R packages.
   * Stopped our clients from advertising on TV shows that their current and future best customers were not watching, after uncovering age-driven consumption patterns.
 """
 
@@ -68,8 +67,7 @@ date_format = "Jan 2006"
   date_end = "2016-05-01"
   description = """
   * Implemented efficient summarizing data algorithms for a real-time analytics platform based on Python.
-
-  * Learned a lot of coding skills (version control, efficiency, readibility, testing, OOP) that would be useful later in my career.
+  * Learned a lot of coding skills (version control, efficiency, readibility, testing, OOP) that have been useful later in my career.
 """
 
 +++
