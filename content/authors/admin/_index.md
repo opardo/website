@@ -22,7 +22,7 @@ bio: Having a background in Applied Mathematics, I have spent the last seven yea
 
 interests:
 - Human behavior
-- Advanced Statistics
+- Bayesian Statistics
 - Machine Learning
 - Improving decision-making
 - Democratization of knowledge
