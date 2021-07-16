@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-02-18"
   date_end = ""
   description = """
-  * Part of the Video Ranking DS team.
+  * Joined the Data Science team working on Video Ranking.
 
 """
 
@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   description = """
   * Increased the number of investments after automating targeted offers, fitting PySpark models that estimate monthly expenses for each of our users.
   * Improved our clients’ finances by suggesting personalized actions, given their current balance and trends.
-  * Maximized the bank’s profit by estimating the maximum interest rate a given customer is willing to pay for a personal loan, using random forests.
+  * Lifted the bank’s profit by estimating the interest rate a given customer is willing to pay for a personal loan, using random forests.
 """
 
 [[experience]]
@@ -65,9 +65,9 @@ date_format = "Jan 2006"
   date_start = "2016-06-01"
   date_end = "2017-06-01"
   description = """
-  * Empowered our clients to figure out the current state and momentum of their brand, as well as anomalies in their KPIs, by building Shiny apps.
-  * Optimized our clients’ media strategy by estimating the effect of different advertising channels on their metrics, using self-developed R packages.
-  * Stopped our clients from advertising on TV shows that their current and future best customers were not watching, after uncovering age-driven consumption patterns.
+  * Empowered our clients to figure out the current state and momentum of their KPIs, by building dynamic Shiny apps.
+  * Optimized our clients' media strategy by estimating the effect of different advertising channels on their metrics, utilizing self-developed R packages.
+  * Stopped our clients from advertising on TV shows that their current (and future) best customers don't watch, by uncovering age-driven consumption patterns.
 """
 
 +++

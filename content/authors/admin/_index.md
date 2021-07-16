@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Having a background in Applied Mathematics, I have spent the last seven years understanding human behavior through data. I worked as a Statistician in Mexico (my home country) and later got my master's degree in Data Science at Columbia University. More recently, I entered the tech world, interning at Airbnb, and I'm currently working as a Data Scientist for Facebook.
+bio: Having a background in Applied Mathematics, I have spent the last seven years understanding human behavior through data. I'm a Data Scientist currently working for Facebook, after interning at Airbnb. 
 
 interests:
 - Human behavior
@@ -68,6 +68,6 @@ email: "cop2108@columbia.edu"
 # - Visitors
 ---
 
-Having a background in Applied Mathematics, I have spent the last seven years understanding human behavior through data. I worked as a Statistician in Mexico (my home country) and later got my master's degree in Data Science at Columbia University. More recently, I entered the tech world, interning at Airbnb, and I'm currently working as a Data Scientist for Facebook.
+Having a background in Applied Mathematics, I have spent the last seven years understanding human behavior through data. I'm a Data Scientist currently working for Facebook, after interning at Airbnb. Previously, I got my MS in Data Science from Columbia University, and worked in the marketing and banking industries as a statistician, in Mexico.
 
-I'm also very passionate about democratizing knowledge in a way that is friendly for everyone, despite their background. Consequently, I'm the host of [Datos Netos](datosnetos.com), a podcast in Spanish in which I talk with experts about social issues from a quantitative perspective.
+I'm also very passionate about democratizing knowledge in a way that is friendly for everyone, no matter their background. Consequently, I'm the host of [datos netos](https://datosnetos.com), a podcast in Spanish in which I talk with experts about social issues from a quantitative perspective.
