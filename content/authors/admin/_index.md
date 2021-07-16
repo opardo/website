@@ -25,6 +25,7 @@ interests:
 - Advanced Statistics
 - Machine Learning
 - Improving decision-making
+- Democratization of knowledge
 
 education:
   courses:
