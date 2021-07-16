@@ -71,4 +71,4 @@ email: "cop2108@columbia.edu"
 
 Having a background in Applied Mathematics, I have spent the last seven years understanding human behavior through data. Currently, I'm a Data Scientist working for Facebook, and previously interned at Airbnb. I got my MS in Data Science from Columbia University, and I also worked in the marketing and banking industries as a Statistician.
 
-I'm passionate about democratizing knowledge in a way that is friendly for everyone, no matter their background. Consequently, I'm the host of [datos netos](https://datosnetos.com), a podcast in Spanish in which I talk with experts about social issues from a quantitative perspective.
+I'm passionate about democratizing knowledge in a way that is friendly for everyone, no matter their background. Consequently, I'm the host of [datos netos](https://datosnetos.com), a podcast in Spanish in which I talk with experts about social phenomena from a quantitative perspective.
