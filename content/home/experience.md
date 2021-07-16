@@ -18,6 +18,18 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Data Scientist"
+  company = "Facebook"
+  company_url = ""
+  location = "Menlo Park, CA"
+  date_start = "2020-02-18"
+  date_end = ""
+  description = """
+  * Part of the Video Ranking DS team.
+
+"""
+
+[[experience]]
   title = "Data Science Intern"
   company = "Airbnb"
   company_url = ""
@@ -56,18 +68,6 @@ date_format = "Jan 2006"
   * Empowered our clients to figure out the current state and momentum of their brand, as well as anomalies in their KPIs, by building Shiny apps.
   * Optimized our clients’ media strategy by estimating the effect of different advertising channels on their metrics, using self-developed R packages.
   * Stopped our clients from advertising on TV shows that their current and future best customers were not watching, after uncovering age-driven consumption patterns.
-"""
-
-[[experience]]
-  title = "Web Developer"
-  company = "Datata (Tech startup)"
-  company_url = ""
-  location = "Mexico City, MX"
-  date_start = "2015-06-01"
-  date_end = "2016-05-01"
-  description = """
-  * Implemented efficient summarizing data algorithms for a real-time analytics platform based on Python.
-  * Learned a lot of coding skills (version control, efficiency, readibility, testing, OOP) that have been useful later in my career.
 """
 
 +++
