@@ -14,11 +14,11 @@ role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Columbia University
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: After 3+ years of industry experience and a master's degree from Columbia University, I love exploring different facets of human behavior from a Data Science perspective.
+bio: Having a background in Applied Mathematics, I have spent the last seven years understanding human behavior through data. I worked as a Statistician in Mexico (my home country) and later got my master's degree in Data Science at Columbia University. More recently, I entered the tech world, interning at Airbnb, and I'm currently working as a Data Scientist for Facebook.
 
 interests:
 - Human behavior
@@ -68,4 +68,6 @@ email: "cop2108@columbia.edu"
 # - Visitors
 ---
 
-Having three years of experience in the industry and a background in Applied Mathematics, I am part of the MS in Data Science program at Columbia University. After a fantastic summer internship at Airbnb, I will graduate this December (2019) and look forward to the next step in my career!
+Having a background in Applied Mathematics, I have spent the last seven years understanding human behavior through data. I worked as a Statistician in Mexico (my home country) and later got my master's degree in Data Science at Columbia University. More recently, I entered the tech world, interning at Airbnb, and I'm currently working as a Data Scientist for Facebook.
+
+I'm also very passionate about democratizing knowledge in a way that is friendly for everyone, despite their background. Consequently, I'm the host of [Datos Netos](datosnetos.com), a podcast in Spanish in which I talk with experts about social issues from a quantitative perspective.
