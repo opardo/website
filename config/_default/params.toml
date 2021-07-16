@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "After 3+ years of industry experience and a master's degree from Columbia University, I love exploring different facets of human behavior from a Data Science perspective."
+description = "After 6+ years of experience working with data, I love exploring different facets of human behavior from a Data Science perspective."
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -90,7 +90,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "", city = "New York", region = "NY", postcode = "", country = "", country_code = ""}
+address = {street = "", city = "San Francisco", region = "CA", postcode = "", country = "", country_code = ""}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
