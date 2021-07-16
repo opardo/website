@@ -20,24 +20,6 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Columbia University"
-  title = "Applied Deep Learning (Prof. Josh Gordon)"
-  url = "https://github.com/random-forests/adl-fall-19/blob/master/syllabus.pdf"
-  certificate_url = ""
-  date_start = "2019-09-01"
-  date_end = "2019-12-01"
-  description = ""
-
-[[item]]
-  organization = "Columbia University"
-  title = "Machine Learning for Data Science (Prof. John Paisley)"
-  url = "http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2019/W4721Spring2019.html"
-  certificate_url = ""
-  date_start = "2019-01-01"
-  date_end = "2019-05-01"
-  description = ""
-
-[[item]]
-  organization = "Columbia University"
   title = "Applied Machine Learning (Prof. Andreas C. Müller)"
   url = "https://www.cs.columbia.edu/~amueller/comsw4995s19/"
   certificate_url = ""
@@ -47,11 +29,11 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Columbia University"
-  title = "Introduction to Databases (Prof. Eugene Wu)"
-  url = "https://w4111.github.io/"
+  title = "Applied Deep Learning (Prof. Josh Gordon)"
+  url = "https://github.com/random-forests/adl-fall-19/blob/master/syllabus.pdf"
   certificate_url = ""
-  date_start = "2019-01-01"
-  date_end = "2018-05-01"
+  date_start = "2019-09-01"
+  date_end = "2019-12-01"
   description = ""
 
 [[item]]
@@ -65,16 +47,16 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Columbia University"
-  title = "Algorithms for Data Science (Prof. Eleni Drinea)"
-  url = ""
+  title = "Machine Learning for Data Science (Prof. John Paisley)"
+  url = "http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2019/W4721Spring2019.html"
   certificate_url = ""
-  date_start = "2018-09-01"
-  date_end = "2018-12-01"
+  date_start = "2019-01-01"
+  date_end = "2019-05-01"
   description = ""
 
 [[item]]
   organization = "Columbia University"
-  title = "Statistical Inference and Modeling (Prof. Marco Avella Medina)"
+  title = "Algorithms for Data Science (Prof. Eleni Drinea)"
   url = ""
   certificate_url = ""
   date_start = "2018-09-01"
@@ -90,21 +72,39 @@ date_format = "Jan 2006"
   date_end = "2016-05-01"
   description = ""
 
-[[item]]
-  organization = "Instituto Tecnologico Autónomo de México"
-  title = "Numerical Optimization (Prof. Zeferino Parada)"
-  url = ""
-  certificate_url = ""
-  date_start = "2016-01-01"
-  date_end = "2016-05-01"
-  description = ""
+#[[item]]
+#  organization = "Columbia University"
+#  title = "Introduction to Databases (Prof. Eugene Wu)"
+#  url = "https://w4111.github.io/"
+#  certificate_url = ""
+#  date_start = "2019-01-01"
+#  date_end = "2018-05-01"
+#  description = ""
 
-[[item]]
-  organization = "Instituto Tecnologico Autónomo de México"
-  title = "Multivariate Analysis (Prof. Juan Carlos Martínez Ovando)"
-  url = "https://www.linkedin.com/in/jcmartinezovando/"
-  certificate_url = ""
-  date_start = "2016-01-01"
-  date_end = "2016-05-01"
-  description = ""
+#[[item]]
+#  organization = "Columbia University"
+#  title = "Statistical Inference and Modeling (Prof. Marco Avella Medina)"
+#  url = ""
+#  certificate_url = ""
+#  date_start = "2018-09-01"
+#  date_end = "2018-12-01"
+#  description = ""
+
+#[[item]]
+#  organization = "Instituto Tecnologico Autónomo de México"
+#  title = "Numerical Optimization (Prof. Zeferino Parada)"
+#  url = ""
+#  certificate_url = ""
+#  date_start = "2016-01-01"
+#  date_end = "2016-05-01"
+#  description = ""
+
+#[[item]]
+#  organization = "Instituto Tecnologico Autónomo de México"
+#  title = "Multivariate Analysis (Prof. Juan Carlos Martínez Ovando)"
+#  url = "https://www.linkedin.com/in/jcmartinezovando/"
+#  certificate_url = ""
+#  date_start = "2016-01-01"
+#  date_end = "2016-05-01"
+#  description = ""
 +++
