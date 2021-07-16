@@ -1,5 +1,5 @@
 ---
-title: Atleta
+title: Soccer Learning
 summary: Predicted which team has the ball possession in a soccer game by utilizing CNNs and RNNs.
 tags:
 - Applications
